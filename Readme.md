@@ -1,4 +1,4 @@
-# [🎬 View Live Application (click on the link)](https://your-movies-app.vercel.app/)
+# [🎬 View Live Application (click on the link)](https://movies-mu-pink.vercel.app/)
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react" alt="React" />
